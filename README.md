@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning C and Shell [42Porto](https://www.42porto.com/)
 
-- 📝 I regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/s/rGPbW3XCn3Kl2phAAgvE/)
+- 📝 I regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home)
 
 - 💬 Ask me about **C, C++ and C#**
 
