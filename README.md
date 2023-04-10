@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Push_Swap**
 
-- 🌱 I’m currently learning C and Shell [42Porto](https://www.42porto.com/)
+- 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
-- 📝 I regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home)
+- 📝 I (not) regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home)
 
 - 💬 Ask me about **C, C++ and C#**
 
