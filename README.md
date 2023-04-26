@@ -9,7 +9,7 @@
 
 - 📝 I (do not) regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home)
 
-- 💬 Ask me about **C, C++ and C#**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **pinedev@outlook.com**
 
