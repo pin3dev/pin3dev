@@ -3,7 +3,7 @@
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Push_Swap** w/ my partner @clima-fr
+- 🔭 I’m currently working on **Push_Swap** w/ my partner [clima-fr](https://github.com/clima-fr)
 
 - 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
