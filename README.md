@@ -6,7 +6,8 @@
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
 <h3 align="left">About me:</h3>
-
+<p  align="left">
+  
 - ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **_SoLong_** <!--w/ my partner [clima-fr](https://github.com/clima-fr)-->
 
 - 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
@@ -19,6 +20,7 @@
 - 📝 I (do not) regularly write portugueses articles in [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home) about the 42 projects 
 <!-- - 💬 Ask me about **C and C++**-->
 - 📫 How to reach me **pinedev@outlook.com**
+ </p>
 
 <h3 align="left">Social:</h3>
 <p align="left">
