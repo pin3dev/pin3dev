@@ -17,7 +17,7 @@
 
 - 🎓 8 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 
-- 📝 I (do not) regularly write portugueses articles in [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home) about the 42 projects 
+- 📝 I (do not) regularly write portugueses articles in [GitBook](https://pin3dev.gitbook.io/projetos/) about the 42 projects 
 <!-- - 💬 Ask me about **C and C++**-->
 - 📫 How to reach me **pinedev@outlook.com**
  </p>
