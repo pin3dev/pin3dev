@@ -36,7 +36,7 @@
 | 2 |  [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/humbertoarndt/Born2beRoot) | [Born2BeRoot]() | 🔐 | Create a virtual machine. | SHELL/CLI | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2970583" alt="ivbatist's 42 Born2beroot Score" /></a> |
 | 2 |  No Badge |[ExamRank2]() | ✍️ | Exam required to finish rank 2. | C |  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/3013993" alt="ivbatist's 42 Exam Rank 02 Score" /></a> |
 | 3 |  [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)]([https://github.com/pin3dev/minitalk]) | [minitalk]() | 🔐 | Create a small data exchange program using UNIX signals. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/3058025" alt="ivbatist's 42 minitalk Score" /></a> |
-| 3 |  [![push_swape](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/pin3dev/push_swap]) | [Push_Swap]() | ✍️| Sort a list o random numbers in the least amount of moves possible. | C |  |
+| 3 |  [![push_swape](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/push_swape.png)]([https://github.com/pin3dev/push_swap]) | [Push_Swap]() | ✅ | Sort a list o random numbers in the least amount of moves possible. | C |  |
  
  </details>
 
