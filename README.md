@@ -3,13 +3,13 @@
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
 <h3 align="left">About me:</h3>
 
-- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **SoLong** <!--w/ my partner [clima-fr](https://github.com/clima-fr)-->
+- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **_SoLong_** <!--w/ my partner [clima-fr](https://github.com/clima-fr)-->
 
 - 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
-- 💼 I have experience with **3D architectural environment design**, and great enthusiasm about game development.
+- 💼 I have experience with **_3D architectural environment design_**, and great enthusiasm about game development.
 
-- 🎓 8 years ago I finished my bachelor's degree in **Architecture and Urbanism**
+- 🎓 8 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 
 - 📝 I (do not) regularly write portugueses articles in [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home) about the 42 projects 
 <!-- - 💬 Ask me about **C and C++**-->
