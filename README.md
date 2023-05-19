@@ -1,5 +1,5 @@
-![gif](https://github.com/pin3dev/pin3dev/blob/main/Anime%20Computer%20Error%20(1).gif)
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pin3dev/68ab367fe6fd3606fef6bc9db88bdbe9/raw/2f02eaba8c47e353638f3fd55d2cab9d226021ef/mygithubcard.svg"/>-->
+<img src="https://github.com/pin3dev/pin3dev/blob/main/Anime%20Computer%20Error%20(1).gif" alt="Descrição opcional" style="width: 100%;">
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
 <h3 align="left">About me:</h3>
