@@ -9,6 +9,8 @@
 
 - 💼 I have experience with **3D architectural environment design**, and great enthusiasm about game development.
 
+- 🎓 8 years ago I finished my bachelor's degree in **Architecture and Urbanism**
+
 - 📝 I (do not) regularly write portugueses articles in [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home) about the 42 projects 
 
 - 💬 Ask me about **C and C++**
