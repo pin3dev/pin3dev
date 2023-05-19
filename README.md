@@ -3,7 +3,7 @@
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently working on **Push_Swap** w/ my partner [clima-fr](https://github.com/clima-fr)
+- 🔭 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **SoLong** project <!--w/ my partner [clima-fr](https://github.com/clima-fr)-->
 
 - 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
@@ -25,18 +25,18 @@
 
 ---
 
-<details><summary><h3>🧑‍🚀 42 Cursus Projects</h3></summary>
+<details><summary><h3>🚀 42 Cursus Projects</h3></summary>
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/stats?cursusId=21&coalitionId=293" alt="ivbatist's 42 stats" /></a>
   
 | Rank | Medal | Project | Status | Resume | Language | Grade |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 1 |  [![Libft](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/libftm.png)](https://github.com/pin3dev/libft) | [Libft]() | 🔐 | Recreates basics functions for designing your own library | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2896659" alt="ivbatist's 42 Libft Score" /></a> |
-| 2 |  [![GNL](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/get_next_linee.png)](https://github.com/pin3dev/get_next_line) |[Get_Next_Line]() | 🔐 | Read a single line from a fd. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2904476" alt="ivbatist's 42 get_next_line Score" /></a> |
-| 2 |  [![ft_printf](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/ft_printfe.png)](https://github.com/pin3dev/ft_printf) |[Ft_printf]() | 🔐 | Recreates the printf function. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2922407" alt="ivbatist's 42 ft_printf Score" /></a> |
-| 2 |  [![Born2beRoot](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/born2beroote.png)](https://github.com/pin3dev/Born2beRoot) | [Born2BeRoot]() | 🔐 | Create a virtual machine. | SHELL/CLI | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2970583" alt="ivbatist's 42 Born2beroot Score" /></a> |
+| 1 |  ![Libft](https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png) | [Libft](https://github.com/pin3dev/libft) | 🔐 | Recreates basics functions for designing your own library | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2896659" alt="ivbatist's 42 Libft Score" /></a> |
+| 2 |  ![GNL](https://github.com/pin3dev/42-project-badges/blob/main/badges/get_next_linem.png) |[Get_Next_Line](https://github.com/pin3dev/get_next_line) | 🔐 | Read a single line from a fd. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2904476" alt="ivbatist's 42 get_next_line Score" /></a> |
+| 2 |  ![ft_printf](https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_printfe.png) |[Ft_printf](https://github.com/pin3dev/ft_printf) | 🔐 | Recreates the printf function. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2922407" alt="ivbatist's 42 ft_printf Score" /></a> |
+| 2 |  ![Born2beRoot](https://github.com/pin3dev/42-project-badges/blob/main/badges/born2beroote.png) | [Born2BeRoot](https://github.com/pin3dev/Born2beRoot) | 🔐 | Create a virtual machine. | SHELL/CLI | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/2970583" alt="ivbatist's 42 Born2beroot Score" /></a> |
 | 2 |  No Badge |[ExamRank2]() | ✍️ | Exam required to finish rank 2. | C |  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/3013993" alt="ivbatist's 42 Exam Rank 02 Score" /></a> |
-| 3 |  [![minitalk](https://github.com/humbertoarndt/humbertoarndt/blob/main/42_badges/minitalkn.png)](https://github.com/pin3dev/minitalk) | [Minitalk]() | 🔐 | Create a small data exchange program using UNIX signals. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/3058025" alt="ivbatist's 42 minitalk Score" /></a> |
-| 3 |  ![push_swape](https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png) | [Push_Swap](https://github.com/pin3dev/push_swap) | ✅ | Sort a list o random numbers in the least amount of moves possible. | C |  |
+| 3 |  ![minitalk](https://github.com/pin3dev/42-project-badges/blob/main/badges/minitalkm.png) | [Minitalk](https://github.com/pin3dev/minitalk) | 🔐 | Create a small data exchange program using UNIX signals. | C | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/project/3058025" alt="ivbatist's 42 minitalk Score" /></a> |
+| 3 |  ![push_swap](https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png) | [Push_Swap](https://github.com/pin3dev/push_swap) | ✅ | Sort a list o random numbers in the least amount of moves possible. | C |  |
  
  </details>
 
