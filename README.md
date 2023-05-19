@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
+- 💼 I have experience with **3D architectural environment design**, and great enthusiasm for game development.
+
 - 📝 I (do not) regularly write articles on [GitBook](https://app.gitbook.com/o/aRI5hAvCazdt1dOmpZmd/home)
 
 - 💬 Ask me about **C and C++**
