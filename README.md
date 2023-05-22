@@ -8,9 +8,9 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **_SoLong_** <!--w/ my partner [clima-fr](https://github.com/clima-fr)-->
+- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **_SoLong_** w/ my partner [clima-fr](https://github.com/clima-fr)
 
-- 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
+- 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/) (<a href="#42projects">my projects </a>), C++ and Unity at [Alura](https://www.alura.com.br/)
 
 - 💼 I have experience with **_3D architectural environment design_**,
 <br>and great enthusiasm about game development.
@@ -38,7 +38,7 @@
 
 ---
 
-<details><summary><h3>🚀 42 Cursus Projects</h3></summary>
+<details><summary><h3 id="42projects">🚀 42 Cursus Projects</h3></summary>
 <p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/stats?cursusId=21&coalitionId=293" alt="ivbatist's 42 stats" /></a>
  
 | Rank | Medal | Project | Status | Resume | Language | Grade |
