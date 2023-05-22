@@ -38,8 +38,8 @@
 
 ---
 
-<details><summary><h3>🚀 42 Cursus Projects</h3></summary>
-<p align="center" id="42projects"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/stats?cursusId=21&coalitionId=293" alt="ivbatist's 42 stats" /></a>
+<details><summary><h3 id="42projects">🚀 42 Cursus Projects</h3></summary>
+<p align="center"><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clc16snwy00920fmmoffssg22/stats?cursusId=21&coalitionId=293" alt="ivbatist's 42 stats" /></a>
  
 | Rank | Medal | Project | Status | Resume | Language | Grade |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
