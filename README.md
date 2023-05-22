@@ -9,8 +9,10 @@
 <p  align="left">
   
 - ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) project and started **_SoLong_** w/ my partner [clima-fr](https://github.com/clima-fr)
+  
+- You can access my 42 projects <a href="#42projects">here</a>
 
-- 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/) (<a href="#42projects">my projects</a>), C++ and Unity at [Alura](https://www.alura.com.br/)
+- 🌱 I’m currently learning C and Shell at [42Porto](https://www.42porto.com/), C++ and Unity at [Alura](https://www.alura.com.br/)
 
 - 💼 I have experience with **_3D architectural environment design_**,
 <br>and great enthusiasm about game development.
