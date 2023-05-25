@@ -2,10 +2,14 @@
 
 <p align="center">
   <img src="https://github.com/pin3dev/pin3dev/blob/main/Anime%20Computer%20Error%20(1).gif" alt="gir_error_anime" style="display: block; margin: 0 auto; width: 100%;">
-</p>-->
+</p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
+</p>-->
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
 </p>
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">I'm Iva</h1>
