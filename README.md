@@ -12,7 +12,7 @@
   <img src="https://i.pinimg.com/originals/51/7d/50/517d50010dfe6e71d17548cae0f6f0dc.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
 </p>
 
-<h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">HI</h1>
+<h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">Hi</h1>
 <h3 align="left">About me:</h3>
 <p  align="left">
   
