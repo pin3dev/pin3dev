@@ -16,7 +16,7 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) and the **_SoLong_** project w/ my partner [clima-fr](https://github.com/clima-fr)
+- ✍🏻 I just finished the [Push_Swap](https://github.com/pin3dev/push_swap) and the **_SoLong_** projects w/ my partner [clima-fr](https://github.com/clima-fr)
   
 - 🔎 You can find my 42 projects through <a href="#42projects">here below</a>
 
