@@ -13,7 +13,7 @@
 </p>-->
 
 <p align="center">
-  <img src="" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
+  <img src="https://raw.githubusercontent.com/pin3dev/pin3dev/main/f5d475dcbc657830c77ab317d34611aa.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
 </p>
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">Hi</h1>
