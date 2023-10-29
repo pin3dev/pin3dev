@@ -20,7 +20,7 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the **minishell** projects w/ my partner [clima-fr](https://github.com/clima-fr)
+- ✍🏻 I just finished the [minishell](https://github.com/pin3dev/42_Minishell) projects w/ my partner [clima-fr](https://github.com/clima-fr)
   
 - 🔎 You can find my 42 projects through <a href="#42projects">here below</a>
 
@@ -31,8 +31,7 @@
 
 - 🎓 8 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 
-<!--- 📝 I (do not) regularly write portugueses articles in [GitBook](https://pin3dev.gitbook.io/42/) about the 42 projects 
-- 💬 Ask me about **C and C++**-->
+<!--- 📝 I (do not) regularly write portugueses articles in [GitBook](https://pin3dev.gitbook.io/42/) about the 42 projects -->
 - 📫 How to reach me **pinedev@outlook.com**
  </p>
 
