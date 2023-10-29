@@ -22,7 +22,7 @@
   
 - ✍🏻 I just finished the [`minishell`](https://github.com/pin3dev/42_Minishell) projects w/ my partner [`clima-fr`](https://github.com/clima-fr)
   
-- 🔎 You can find my 42 projects through <a href="#42projects">here below</a>
+- 🔎 You can find my 42 projects through <a href="#42projects">`here below`</a>
 
 - 🌱 I’m currently learning C, Shell and C++ at [`42Porto`](https://www.42porto.com/), and Unity at [`Alura`](https://www.alura.com.br/)
 
@@ -31,7 +31,7 @@
 <!--- 📝 I (do not) regularly write portugueses articles in [GitBook](https://pin3dev.gitbook.io/42/) about the 42 projects 
 - 💼 I have experience with **_3D architectural environment design_**,
 <br>and great enthusiasm about game development.-->
-- 📫 How to reach me **pinedev@outlook.com**
+- 📫 How to reach me **`pinedev@outlook.com`**
  </p>
 
 <h3 align="left">Social:</h3>
