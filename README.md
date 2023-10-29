@@ -20,11 +20,11 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [minishell](https://github.com/pin3dev/42_Minishell) projects w/ my partner [clima-fr](https://github.com/clima-fr)
+- ✍🏻 I just finished the [`minishell`](https://github.com/pin3dev/42_Minishell) projects w/ my partner [`clima-fr`](https://github.com/clima-fr)
   
 - 🔎 You can find my 42 projects through <a href="#42projects">here below</a>
 
-- 🌱 I’m currently learning C, Shell and C++ at [42Porto](https://www.42porto.com/), and Unity at [Alura](https://www.alura.com.br/)
+- 🌱 I’m currently learning C, Shell and C++ at [`42Porto`](https://www.42porto.com/), and Unity at [`Alura`](https://www.alura.com.br/)
 
 - 🎓 8 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 
