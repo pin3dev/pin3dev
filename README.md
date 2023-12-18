@@ -20,7 +20,7 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [`minishell`](https://github.com/pin3dev/42_Minishell) projects w/ my partner [`clima-fr`](https://github.com/clima-fr)
+- ✍🏻 I just finished the [`Cub3D`](https://github.com/pin3dev/42_cub3D) projects w/ my partner [`clima-fr`](https://github.com/clima-fr)
   
 - 🔎 You can find my 42 projects through <a href="#42projects">`here below`</a>
 
