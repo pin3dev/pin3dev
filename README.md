@@ -20,13 +20,13 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [`Cub3D`](https://github.com/pin3dev/42_cub3D) projects w/ my partner [`clima-fr`](https://github.com/clima-fr)
+- ✍🏻 I just finished the [`CPP03`](https://github.com/pin3dev/42_c03) module
   
 - 🔎 You can find my 42 projects through <a href="#42projects">`here below`</a>
 
 - 🌱 I’m currently learning C, Shell and C++ at [`42Porto`](https://www.42porto.com/), and Unity at [`Alura`](https://www.alura.com.br/)
 
-- 🎓 8 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
+- 🎓 9 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 
 <!--- 📝 I (do not) regularly write portugueses articles in [GitBook](https://pin3dev.gitbook.io/42/) about the 42 projects 
 - 💼 I have experience with **_3D architectural environment design_**,
