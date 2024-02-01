@@ -20,7 +20,7 @@
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [`CPP03`](https://github.com/pin3dev/42_c03) module
+- ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module
   
 - 🔎 You can find my 42 projects through <a href="#42projects">`here below`</a>
 
