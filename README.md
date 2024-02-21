@@ -22,8 +22,6 @@
   
 - ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module
   
-- 🔎 You can find my 42 projects through <a href="#42projects">`here below`</a>
-
 - 🌱 I’m currently learning C, Shell and C++ at [`42Porto`](https://www.42porto.com/), and Unity at [`Alura`](https://www.alura.com.br/)
 
 - 🎓 9 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
