@@ -39,6 +39,7 @@
 | 4 | CPP00-04 | ✅ |  |  |  | `100/100` |  
 | 4 | Cub3d | ✅ |  |  |  | `100/100` |  
 | 4 | Netpratice | 🔐 |  |  |  | `100/100` |  
+| 4 | ExamRank4 | 🔐 |  |Exam required to finish rank 4. | C | `100/100` |  
 | 3 | Minishell | ✅ |  |  |  | `100/100` |  
 | 3 | Philosophers | 🔐 |  |  |  | `100/100` |  
 | 3 | ExamRank3 | 🔐 |  |Exam required to finish rank 3. | C | `100/100` |  
