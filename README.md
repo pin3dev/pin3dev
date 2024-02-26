@@ -32,7 +32,7 @@
   </a>
 </p>
 
-<details><summary><h3 id="42_Porto">🚀 École 42 Projects (latest on top) </h3></summary>
+<h3 id="42_Porto">🚀 École 42 Projects (latest on top) </h3>
 
 | Rank | Project | Repository | Tutorial | Resume | Language | Grade |
 |:----:|:-------:|:----------:|:--------:|:------:|:--------:|:-----:|
@@ -103,5 +103,4 @@
 	  <img alt="Libft" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png" />
   </a>
 </p>
- </details>
 
