@@ -8,7 +8,7 @@
 <p  align="left">
   
 - ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module  
-  and I'm 4 projects away from completing the [`common core`](https://42.fr/en/the-program/software-engineer-degree/) na [`42Porto`](https://www.42porto.com/) [⬇️](#42_Porto)
+  and I'm 4 projects away from completing the [`common core`](https://42.fr/en/the-program/software-engineer-degree/) [⬇️](#42_Porto)
   
 - 🌱 I’m currently learning `C`, `Shell` and `C++` at [`42Porto`](https://www.42porto.com/), and and a lot of other things at [`Alura`](https://www.alura.com.br/)
 
