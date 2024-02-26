@@ -42,7 +42,7 @@
 | 3 | Minishell | ✅ |  |  |  | `100/100` |  
 | 3 | Philosophers | 🔐 |  |  |  | `100/100` |  
 | 3 | ExamRank3 | 🔐 |  |Exam required to finish rank 3. | C | `100/100` |  
-| 2 | so_Long | 🔐 |  | C |  | `103/100` |  
+| 2 | so_Long | 🔐 |  |  | C | `103/100` |  
 | 2 | Push_Swap | ✅ | ✅ | Sort a list o random numbers in the least amount of moves possible. | C | `100/100` |  
 | 2 | Minitalk | 🔐 |  | Create a small data exchange program using UNIX signals. | C | `115/100` |  
 | 2 | ExamRank2 | 🔐 |  | Exam required to finish rank 2. | C | `100/100` |  
