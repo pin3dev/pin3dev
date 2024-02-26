@@ -36,20 +36,20 @@
 
 | Rank | Project | Repository | Tutorial | Resume | Language | Grade |
 |:----:|:-------:|:----------:|:--------:|:------:|:--------:|:-----:|
-| 4 | CPP00-04 | ✅ |  |  |  |  |  
-| 4 | Cub3d | ✅ |  |  |  |  |  
-| 4 | Netpratice | 🔐 |  |  |  |  |  
-| 3 | Minishell | ✅ |  |  |  |  |  
-| 3 | Philosophers | 🔐 |  |  |  |  |  
-| 3 | ExamRank3 | 🔐 |  |Exam required to finish rank 3. | C |  |  
-| 2 | so_Long | 🔐 |  | C |  |  |  
-| 2 | Push_Swap | ✅ | ✅ | Sort a list o random numbers in the least amount of moves possible. | C |  |  
-| 2 | Minitalk | 🔐 |  | Create a small data exchange program using UNIX signals. | C |  |  
-| 2 | ExamRank2 | 🔐 |  | Exam required to finish rank 2. | C |  |  
-| 1 | Born2BeRoot | ✅ |  | Create a virtual machine. | SHELL/CLI |  |  
-| 1 | Ft_printf | 🔐 |  | Recreates the printf function. | C |  |  
-| 1 | Get_Next_Line | 🔐 |  | Read a single line from a fd. | C |  |  
-| 0 | Libft | 🔐 |  | Recreates basics functions for designing your own library | C |  |  
+| 4 | CPP00-04 | ✅ |  |  |  | `100/100` |  
+| 4 | Cub3d | ✅ |  |  |  | `100/100` |  
+| 4 | Netpratice | 🔐 |  |  |  | `100/100` |  
+| 3 | Minishell | ✅ |  |  |  | `100/100` |  
+| 3 | Philosophers | 🔐 |  |  |  | `100/100` |  
+| 3 | ExamRank3 | 🔐 |  |Exam required to finish rank 3. | C | `100/100` |  
+| 2 | so_Long | 🔐 |  | C |  | `103/100` |  
+| 2 | Push_Swap | ✅ | ✅ | Sort a list o random numbers in the least amount of moves possible. | C | `100/100` |  
+| 2 | Minitalk | 🔐 |  | Create a small data exchange program using UNIX signals. | C | `115/100` |  
+| 2 | ExamRank2 | 🔐 |  | Exam required to finish rank 2. | C | `100/100` |  
+| 1 | Born2BeRoot | ✅ |  | Create a virtual machine. | SHELL/CLI | `100/100` |  
+| 1 | Ft_printf | 🔐 |  | Recreates the printf function. | C | `100/100` |  
+| 1 | Get_Next_Line | 🔐 |  | Read a single line from a fd. | C | `125/100` |  
+| 0 | Libft | 🔐 |  | Recreates basics functions for designing your own library | C | `125/100` |  
 
 ---
 
