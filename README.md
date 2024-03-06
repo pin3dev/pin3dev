@@ -17,6 +17,8 @@
 
 - 📫 To reach me, try **`pinedev@outlook.com`**
  </p>
+ 
+---
 
 <h3 align="left">Social:</h3>
 <p align="left">
@@ -25,12 +27,45 @@
 <a href="https://www.behance.net/ivanypinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivanypinheiro" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,py,mysql,git,vim,vscode,ai,ps,pr,ae,html,css&theme=dark&perline=8" />
   </a>
 </p>
+
+---
+
+<h3 align="left">42 Projects:</h3>
+<!-- <h5 align="left">Rank 04</h5> -->
+<p align="left">
+	<img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" width="65" height="65" />
+	<img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3dm.png" width="65" height="65" />
+	<img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" width="65" height="65" />
+	<img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" width="65" height="65" />
+	<img alt="Philosophers" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/philosopherse.png" width="65" height="65" />
+	<img alt="SoLong" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/so_longe.png" width="65" height="65" />
+	<img alt="PushSwap" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png" width="65" height="65" />
+	<img alt="Minitalk" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minitalkm.png" width="65" height="65" />
+	<img alt="Born2BeRoot" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/born2beroote.png" width="65" height="65" />
+	<img alt="Printf" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_printfe.png" width="65" height="65" />
+	<img alt="GNL" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/get_next_linem.png" width="65" height="65" />
+	<img alt="Libft" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png" width="65" height="65" />
+</p>
+<!-- </p> -->
+<!-- <h5 align="left">Rank 03</h5> -->
+<!-- <p align="left"> -->
+<!-- </p> -->
+<!-- <h5 align="left">Rank 02</h5> -->
+<!-- <p align="left"> -->
+<!-- </p> -->
+<!-- <h5 align="left">Rank 01</h5> -->
+<!-- <p align="left"> -->
+<!-- </p> -->
+<!-- <h5 align="left">Rank 00</h5> -->
+<!-- <p align="left"> -->
 
 <h3 id="42_Porto">🚀 École 42 Projects (latest on top) </h3>
 
@@ -52,56 +87,6 @@
 | 1 | Get_Next_Line | 🔐 |  | Read a single line from a fd. | `C` | `125/100` |  
 | 0 | Libft | 🔐 |  | Recreates basics functions for designing your own library | `C` | `125/100` |  
 
----
 
-<p align="center">
-  <a href="https://github.com/pin3dev/42_CPP00">
-  	<img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Cub3d">
-  	<img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3de.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Netpratice">
-  	<img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/pin3dev/42_Minishell">
-  	<img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Philosophers">
-  	<img alt="Philosophers" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/philosopherse.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pin3dev/42_Solong">
-  	<img alt="SoLong" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/so_longe.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Push_Swap">
-  	<img alt="PushSwap" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Minitalk">
-  	<img alt="Minitalk" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minitalkm.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pin3dev/42_Born2BeRoot">
-  	<img alt="Born2BeRoot" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/born2beroote.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_Printf">
-  	<img alt="Printf" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_printfe.png" />
-  </a>
-  <a href="https://github.com/pin3dev/42_GetNextLine">
-  	<img alt="GNL" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/get_next_linem.png" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pin3dev/42_Libft">
-	  <img alt="Libft" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png" />
-  </a>
-</p>
 
