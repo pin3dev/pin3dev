@@ -1,19 +1,16 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pin3dev/pin3dev/main/f5d475dcbc657830c77ab317d34611aa.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 100%;">
+  <img src="https://raw.githubusercontent.com/pin3dev/pin3dev/main/f5d475dcbc657830c77ab317d34611aa.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 40%;">
 </p>
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">Hey, you, hi!</h1>
 <h3 align="left">About me:</h3>
 <p  align="left">
   
-- ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module  
-  and I'm 4 projects away from completing the [`common core`](https://42.fr/en/the-program/software-engineer-degree/) [⬇️](#42_Porto)
+- ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module and I'm 4 projects away from completing the common core [`cursus`](https://github.com/pin3dev/42_Cursus) at [42Porto](https://www.42porto.com/)
   
-- 🌱 I’m currently learning `C`, `Shell` and `C++` at [`42Porto`](https://www.42porto.com/), and and a lot of other things at [`Alura`](https://www.alura.com.br/)
-
 - 🎓 9 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**  
-  and I've recently started studying  **_Computer Engineering_** at [`UAb`](https://portal.uab.pt/)
+  and I've recently started studying  **_Computer Engineering_** at [UAb](https://portal.uab.pt/)
 
 - 📫 To reach me, try **`pinedev@outlook.com`**
  </p>
@@ -27,16 +24,12 @@
 <a href="https://www.behance.net/ivanypinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivanypinheiro" height="30" width="40" /></a>
 </p>
 
----
-
 <h3 align="left">Skills:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,py,mysql,git,vim,vscode,ai,ps,pr,ae,html,css&theme=dark&perline=8" />
   </a>
 </p>
-
----
 
 <h3 align="left">42 Projects:</h3>
 <!-- <h5 align="left">Rank 04</h5> -->
