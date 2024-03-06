@@ -33,6 +33,7 @@
 <h3 align="left">42 Projects:</h3>
 <!-- <h5 align="left">Rank 04</h5> -->
 <p align="left">
+	<a href="https://github.com/pin3dev/42_Cursus">
 	<img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" width="65" height="65" />
 	<img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3dm.png" width="65" height="65" />
 	<img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" width="65" height="65" />
@@ -45,6 +46,7 @@
 	<img alt="Printf" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_printfe.png" width="65" height="65" />
 	<img alt="GNL" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/get_next_linem.png" width="65" height="65" />
 	<img alt="Libft" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png" width="65" height="65" />
+	</a>
 </p>
 <!-- </p> -->
 <!-- <h5 align="left">Rank 03</h5> -->
