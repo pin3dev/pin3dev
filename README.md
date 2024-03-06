@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">Hey, you, hi!</h1>
-<h3 align="left">About me:</h3>
+<h3 align="left">About:</h3>
 <p  align="left">
   
 - ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_c04) module projects
@@ -18,9 +18,16 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ivanypinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanypinheiro" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanypinheiro" height="30" width="40" /></a>
-<a href="https://www.behance.net/ivanypinheiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivanypinheiro" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivanypinheiro" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanypinheiro" height="30" width="40" />
+</a>
+
+<!-- <a href="" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivanypinheiro" height="30" width="40" />
+</a>
+<a href="https://www.behance.net/ivanypinheiro" target="blank">
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivanypinheiro" height="30" width="40" />
+</a> -->
 </p>
 
 <h3 align="left">Skills:</h3>
