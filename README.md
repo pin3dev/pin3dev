@@ -42,7 +42,7 @@
 <p align="left">
 	<a href="https://github.com/pin3dev/42_Cursus">
 	<img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" width="65" height="65" />
-	<img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3dm.png" width="65" height="65" />
+	<img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3de.png" width="65" height="65" />
 	<img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" width="65" height="65" />
 	<img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" width="65" height="65" />
 	<img alt="Philosophers" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/philosopherse.png" width="65" height="65" />
