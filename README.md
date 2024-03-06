@@ -47,6 +47,10 @@
 	<img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" width="65" height="65" />
 	<img alt="Philosophers" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/philosopherse.png" width="65" height="65" />
 	<img alt="SoLong" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/so_longe.png" width="65" height="65" />
+	</a>
+</p>
+<p align="left">
+	<a href="https://github.com/pin3dev/42_Cursus">
 	<img alt="PushSwap" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png" width="65" height="65" />
 	<img alt="Minitalk" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minitalkm.png" width="65" height="65" />
 	<img alt="Born2BeRoot" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/born2beroote.png" width="65" height="65" />
