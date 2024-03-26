@@ -30,10 +30,10 @@
 </a> -->
 </p>
 
-<h3 align="left">Skills:</h3>
+<h3 align="left">Skills & Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,cpp,js,py,mysql,git,vim,vscode,ai,ps,pr,ae,html,css&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=obsidian,notion,debian,linux,bash,c,cpp,regex,js,py,mysql,git,vim,vscode,ai,ps,pr,ae,html,css&theme=dark&perline=10" />
   </a>
 </p>
 
