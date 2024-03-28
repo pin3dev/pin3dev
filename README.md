@@ -1,18 +1,29 @@
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pin3dev/pin3dev/main/f5d475dcbc657830c77ab317d34611aa.gif" alt="gif_pixel_art_computer" style="display: block; margin: 0 auto; width: 40%;">
-</p>
-
-<h1 align="left"><img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px">Hey, you, hi!</h1>
-<h3 align="left">About:</h3>
-<p  align="left">
-  
+<!--  
 - ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_CPP_Modules_00-04) module projects
 - 🎓 I'm 4 projects away from completing the common core [`cursus`](https://github.com/pin3dev/42_cursus) at [42Porto](https://www.42porto.com/)
 - 🎓 9 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
 - 🎓 I've recently started studying  **_Computer Engineering_** at [UAb](https://portal.uab.pt/)
 - 📫 To reach me, try **`pinedev@outlook.com`**
  </p>
+ -->
+
+ <table style="width: 100%;">
+  <tr>
+    <td style="width: 40%;"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ivbatist" alt="ivbatist's 42 stats" style="max-width: 100%;"></a></td>
+  </tr>
+  <tr>
+    <td style="text-align: left;">
+      <ul>
+        <li>✍🏻 I just finished the <a href="https://github.com/pin3dev/42_CPP_Modules_00-04">CPP04</a> module projects</li>
+        <li>🎓 I'm 4 projects away from completing the common core <a href="https://github.com/pin3dev/42_cursus">cursus</a> at <a href="https://www.42porto.com/">42Porto</a></li>
+        <li>🎓 9 years ago I finished my bachelor's degree in <strong>Architecture and Urbanism</strong></li>
+        <li>🎓 I've recently started studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a></li>
+        <li>📫 To reach me, try <strong>pinedev@outlook.com</strong></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
  
 ---
 
