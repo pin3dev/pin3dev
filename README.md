@@ -9,7 +9,7 @@
 
  <table style="width: 100%;">
   <tr>
-    <td style="width: 40%;"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ivbatist" alt="ivbatist's 42 stats" style="max-width: 100%;"></a></td>
+   <!--  <td style="width: 40%;"><a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/ivbatist" alt="ivbatist's 42 stats" style="max-width: 100%;"></a></td>  -->
   </tr>
   <tr>
     <td style="text-align: left;">
