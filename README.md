@@ -14,7 +14,7 @@
   <tr>
     <td style="text-align: left;">
       <ul>
-        <li>✍🏻 I just finished the <a href="https://github.com/pin3dev/42_CPP_Modules_05-09">CPP09</a> module projects</li>
+        <li>✍🏻 I just finished the <a href="https://github.com/pin3dev/42_Webserv">Webserv</a> projects</li>
         <li>🎓 I'm 4 projects away from completing the common core <a href="https://github.com/pin3dev/42_cursus">cursus</a> at <a href="https://www.42porto.com/">42Porto</a></li>
         <li>🎓 9 years ago I finished my bachelor's degree in <strong>Architecture and Urbanism</strong></li>
         <li>🎓 I've recently started studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a></li>
