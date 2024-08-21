@@ -14,7 +14,7 @@
   <tr>
     <td style="text-align: left;">
       <ul>
-        <li>✍🏻 I just finished the <a href="https://github.com/pin3dev/42_Webserv">Webserv</a> project</li>
+        <li>✍🏻 I just finished the <a href="https://github.com/pin3dev/42_Inception">Inception</a> project</li>
         <li>🎓 I'm 1 project away from completing the common core <a href="https://github.com/pin3dev/42_cursus">cursus</a> at <a href="https://www.42porto.com/">42Porto</a></li>
         <li>🎓 9 years ago I finished my bachelor's degree in <strong>Architecture and Urbanism</strong></li>
         <li>🎓 I've recently started studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a></li>
@@ -85,3 +85,7 @@
 <!-- </p> -->
 <!-- <h5 align="left">Rank 00</h5> -->
 <!-- <p align="left"> -->
+
+<h3 align="left">Stats:</h3>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pin3dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)  
