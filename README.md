@@ -44,7 +44,7 @@
 <h3 align="left">Skills & Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=obsidian,notion,vim,vscode,debian,linux,bash,c,cpp,js,py,git,ai,ps,pr,ae,docker,mysql,wordpress&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=obsidian,notion,vim,vscode,debian,linux,bash,c,cpp,js,py,git,ai,ps,pr,ae,docker,mysql,wordpress,nginx&theme=dark&perline=4" />
   </a>
 </p>
 
