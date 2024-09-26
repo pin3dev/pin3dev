@@ -2,8 +2,8 @@
 ┌──────── ABOUT ───────────────────────────────────█████
 ├─ ✍🏻 Just finished the <a href="https://github.com/pin3dev/42_Inception">Inception</a>
 ├─ 🎓 Only 1 project remains to complete the common core <a href="https://github.com/pin3dev/42_cursus">cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
-├─ 🎓 9 years ago, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
-├─ 🎓 Recently, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
+├─ 🎓 2015, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
+├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
 └───────────────
 
 ┌──────── CONTACTS ────────────────────────────────█████
