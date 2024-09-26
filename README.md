@@ -14,10 +14,8 @@
 ┌──────── LANG ────────────────────────────────────█████
  <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,py&theme=dark&perline=8" width="237" />
 
-
 ┌──────── TOOLS ───────────────────────────────────█████
  <img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,wordpress,nginx,obsidian,notion,vim,vscode,ai,ps,pr,ae&theme=dark&perline=7"  width="333" />
-
 
 ┌──────── 42 PROJECTS ─────────────────────────────█████
  <p align="left"><a href="https://github.com/pin3dev/42_Cursus"><img alt="Inception" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/inceptione.png" width="65" height="65" /><img alt="Webserv" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/webserve.png" width="65" height="65" /><img alt="Cpp05-09" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_containersm.png" width="65" height="65" /><img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" width="65" height="65" /><img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3de.png" width="65" height="65" /><img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" width="65" height="65" /><img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" width="65" height="65" />
