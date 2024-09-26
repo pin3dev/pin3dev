@@ -8,7 +8,7 @@
 
 ┌──────── CONTACTS ────────────────────────────────█████
 ├─ 🌐 <a href="https://linkedin.com/in/ivanypinheiro">Linkedin</a>
-├─ 📫 <a href="pinedev@outlook.com">Email</a>
+├─ 📫 <a href="mailto:pinedev@outlook.com">Email</a>
 └───────────────
 
 ┌──────── LANG ────────────────────────────────────█████
