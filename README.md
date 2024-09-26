@@ -1,11 +1,3 @@
-<!--  
-- ✍🏻 I just finished the [`CPP04`](https://github.com/pin3dev/42_CPP_Modules_00-04) module projects
-- 🎓 I'm 4 projects away from completing the common core [`cursus`](https://github.com/pin3dev/42_cursus) at [42Porto](https://www.42porto.com/)
-- 🎓 9 years ago I finished my bachelor's degree in **_Architecture and Urbanism_**
-- 🎓 I've recently started studying  **_Computer Engineering_** at [UAb](https://portal.uab.pt/)
-- 📫 To reach me, try **`pinedev@outlook.com`**
- </p>
- -->
 
  <table style="width: 100%;">
   <tr>
