@@ -1,8 +1,9 @@
 <pre>
 ┌──────── ABOUT ───────────────────────────────────█████
-├─ ✍🏻 Just finished the <a href="https://github.com/pin3dev/42_Inception">Inception</a>
+├─ ✍🏻 Currently working on <strong>ft_Transcendence</strong> project
+├─ 🔎 Seeking partners in the <strong>42SP</strong> school to develop the <strong>ft_Transcendence</strong> project	
 ├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
-├─ 🎓 2022, I began studying <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
+├─ 🤿 2022, I began studying <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
 ├─ 🎓 2015, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
 └───────────────
 
