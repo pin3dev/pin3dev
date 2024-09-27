@@ -1,5 +1,5 @@
 <pre>
-┌──────── ABOUT ───────────────────────────────────█████
+┌──────── <strong>ABOUT</strong> ───────────────────────────────────█████
 ├─ ✍🏻 Currently working on <strong>ft_Transcendence</strong> project
 ├─ 🔎 Seeking partners in the <strong>42SP</strong> school to develop the <strong>ft_Transcendence</strong> project	
 ├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
@@ -7,22 +7,22 @@
 ├─ 🎓 2015, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
 └───────────────
 
-┌──────── CONTACTS ────────────────────────────────█████
+┌──────── <strong>CONTACTS</strong> ────────────────────────────────█████
 ├─ 🌐 <a href="https://linkedin.com/in/ivanypinheiro">Linkedin</a>
 ├─ 📫 <a href="mailto:pinedev@outlook.com">Email</a>
 └───────────────
 
-┌──────── LANG ────────────────────────────────────█████
+┌──────── <strong>LANG</strong> ────────────────────────────────────█████
  <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,py&theme=dark&perline=8" width="237" />
 
-┌──────── TOOLS ───────────────────────────────────█████
+┌──────── <strong>TOOLS</strong> ───────────────────────────────────█████
  <img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,wordpress,nginx,obsidian,notion,vim,vscode,ai,ps,pr,ae&theme=dark&perline=7"  width="333" />
 
-┌──────── 42 PROJECTS ─────────────────────────────█████
+┌──────── <strong>42 PROJECTS</strong> ─────────────────────────────█████
  <p align="left"><a href="https://github.com/pin3dev/42_Cursus"><img alt="Inception" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/inceptione.png" width="65" height="65" /><img alt="Webserv" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/webserve.png" width="65" height="65" /><img alt="Cpp05-09" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_containersm.png" width="65" height="65" /><img alt="Cpp00-04" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cppm.png" width="65" height="65" /><img alt="Cub3d" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/cub3de.png" width="65" height="65" /><img alt="Netpratice" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/netpracticem.png" width="65" height="65" /><img alt="Minishell" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minishelle.png" width="65" height="65" />
 <img alt="Philosophers" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/philosopherse.png" width="65" height="65" /><img alt="SoLong" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/so_longe.png" width="65" height="65" /><img alt="PushSwap" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/push_swape.png" width="65" height="65" /><img alt="Minitalk" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/minitalkm.png" width="65" height="65" /><img alt="Born2BeRoot" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/born2beroote.png" width="65" height="65" /><img alt="Printf" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/ft_printfe.png" width="65" height="65" /><img alt="GNL" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/get_next_linem.png" width="65" height="65" /><img alt="Libft" src="https://github.com/pin3dev/42-project-badges/blob/main/badges/libftm.png" width="65" height="65" /></a></p>
 
-┌──────── 42 PROFILE ──────────────────────────────█████
+┌──────── <strong>42 PROFILE</strong> ──────────────────────────────█████
  <p align="left"><img src="https://badge.mediaplus.ma/binary/ivbatist?1337Badge=off&UM6P=off" alt="ivbatist's 42 stats" /></p>
 
 </pre>	
