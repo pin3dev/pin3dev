@@ -29,6 +29,11 @@
 ┌──────── <strong>42 PROFILE</strong> ──────────────────────────────█████
  <p align="left"><img src="https://badge.mediaplus.ma/binary/ivbatist?1337Badge=off&UM6P=off" alt="ivbatist's 42 stats" /></p>
 
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=pin3dev&radius=16&theme=react-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+</p>
+
+	
 </pre>	
 
 <!-- "─", "┌", "└", "├", e "└" -->
