@@ -31,9 +31,13 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pin3dev&radius=16&theme=react-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  /></p>
 </p>
-
-	
+<div align=left>
+</a>
+  <img src="https://komarev.com/ghpvc/?username=pin3dev&style=pixel&color=blue"></a>
+</a>
+</div>
 </pre>	
+
 
 <!-- "─", "┌", "└", "├", e "└" -->
 
