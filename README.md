@@ -13,7 +13,7 @@
 └───────────────
 
 ┌──────── <strong>LANG</strong> ────────────────────────────────────█████
- <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,py&theme=dark&perline=8" width="237" />
+ <img src="https://skillicons.dev/icons?i=bash,c,cpp,js,py,java&theme=dark&perline=8" width="237" />
 
 ┌──────── <strong>TOOLS</strong> ───────────────────────────────────█████
  <img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,wordpress,nginx,obsidian,notion,vim,vscode,ai,ps,pr,ae&theme=dark&perline=7"  width="333" />
