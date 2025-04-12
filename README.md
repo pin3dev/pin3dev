@@ -2,6 +2,7 @@
 ├─ ✍🏻 Currently working on <strong>ft_Transcendence</strong> project-->	
 <pre>
 ┌──────── <strong>ABOUT</strong> ───────────────────────────────────█████
+├─ 💳 2025, I joined the Mercado Pago Point POS team at MercadoLivre Brazil as <strong>Software Developer Backend</strong>
 ├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
 ├─ 🤿 2025, I completed my studies in <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
 ├─ 🎓 2015, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
