@@ -1,5 +1,3 @@
-<!--├─ 🔎 Seeking partners in the <strong>42SP</strong> school to develop the <strong>ft_Transcendence</strong> project
-├─ ✍🏻 Currently working on <strong>ft_Transcendence</strong> project-->	
 <pre>
 ┌──────── <strong>ABOUT</strong> ───────────────────────────────────█████
 ├─ 💳 2025, I joined the Mercado Pago Point POS team at MercadoLivre Brazil as <strong>Software Developer - Embedded Systems</strong>
@@ -28,15 +26,11 @@
 <a href="https://github.com/pin3dev/42_PushSwap/#tutorial"><img src="https://img.shields.io/badge/PushSwap-100%2F125-green?style=for-the-badge&logo=42&labelColor=gray"/></a>
 <a href="https://github.com/pin3dev/42_Inception/"><img src="https://img.shields.io/badge/Inception-100%2F125-green?style=for-the-badge&logo=42&labelColor=gray"/></a></p>
 ┌──────── <strong>42 PROFILE</strong> ──────────────────────────────█████
- <p align="left"><img src="https://badge.mediaplus.ma/binary/ivbatist?1337Badge=off&UM6P=off" alt="ivbatist's 42 stats" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pin3dev&radius=16&theme=react-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  /></p>
-</p>
-<div align=left>
-</a>
-  <img src="https://komarev.com/ghpvc/?username=pin3dev&style=pixel&color=blue"></a>
-</a>
-</div>
+<img src="https://komarev.com/ghpvc/?username=pin3dev&style=for-the-badge&color=blueviolet">
+	
+<img src="https://badge.mediaplus.ma/binary/ivbatist?1337Badge=off&UM6P=off" alt="ivbatist's 42 stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pin3dev&radius=16&theme=react-dark&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </pre>	
 
 
