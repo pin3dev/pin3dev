@@ -1,5 +1,6 @@
 <pre>
 ┌──────── <strong>ABOUT</strong> ───────────────────────────────────█████
+├─ 📻 2026, I joined the R1 Layer 5G team at Nokia Portugal as <strong>Software Engineer - Embedded Systems</strong>
 ├─ 💳 2025, I joined the Mercado Pago Point POS team at MercadoLivre Brazil as <strong>Software Developer - Embedded Systems</strong>
 ├─ 🤿 2025, I completed my studies in <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
 ├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
