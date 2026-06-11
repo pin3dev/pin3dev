@@ -1,8 +1,9 @@
 <pre>
 ┌──────── <strong>ABOUT</strong> ───────────────────────────────────█████
-├─ 📻 2026, I joined the R1 Layer 5G team at Nokia Portugal as <strong>Software Engineer - Embedded Systems</strong>
-├─ 💳 2025, I joined the Mercado Pago Point POS team at MercadoLivre Brazil as <strong>Software Developer - Embedded Systems</strong>
-├─ 🤿 2025, I completed my studies in <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42Porto</a>
+├─ 🏎️ 2026, I joined <a href="https://www.bmw.pt/pt/topics/fascination-bmw/critical-techworks.html">BMW Critical Techworks</a> as <strong>Software Developer - Backend</strong>
+├─ 📻 2026, I joined the R1 Layer 5G team at <a href="https://www.nokia.com/">Nokia</a> Portugal as <strong>Software Engineer - Embedded Systems</strong>
+├─ 💳 2025, I joined the <a href="https://www.mercadopago.com.br/">Mercado Pago</a> Point POS team at <a href="https://www.mercadolivre.com.br/">Mercado Livre Brazil</a> as <strong>Software Developer - Embedded Systems</strong>
+├─ 🤿 2025, I completed my studies in <strong>Software Engineering</strong> via <a href="https://github.com/pin3dev/42_cursus">common core cursus</a> at <a href="https://www.42porto.com/">42 Porto</a>
 ├─ 🎓 2023, I began studying <strong>Computer Engineering</strong> at <a href="https://portal.uab.pt/">UAb</a>
 ├─ 🎓 2015, I completed my bachelor's degree in <strong>Architecture and Urbanism</strong>
 └───────────────
